@@ -1,7 +1,0 @@
-[submodule "themes/harbor"]
-	path = themes/harbor
-	url = https://github.com/matsuyoshi30/harbor.git
-[submodule "public"]
-	path = public
-	url = https://github.com/fjordyo0707/fjordyo0707.github.io.git
-	branch = main
