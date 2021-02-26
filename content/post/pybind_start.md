@@ -1,7 +1,7 @@
 ---
 title: "Pybind_start"
 date: 2021-02-26T14:22:11+08:00
-draft: true
+draft: false
 ---
 
 # Pybind
